@@ -1,0 +1,3 @@
+<?php require_once APPROOT.'/views/inc/header.php'; ?>
+Para efetuar doações, consulte ....
+<?php require_once APPROOT.'/views/inc/footer.php'; ?>
